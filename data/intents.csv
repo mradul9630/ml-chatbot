@@ -1,0 +1,19 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+how are you,greeting
+
+bye,goodbye
+see you later,goodbye
+goodbye,goodbye
+
+what is your name,name
+who are you,name
+
+thank you,thanks
+thanks,thanks
+
+what services do you provide,services
+tell me your services,services
